@@ -1,0 +1,1 @@
+Покладіть сюди файли зі списку в README.txt (start.png, start_music.mp3, select_bg.png та інші).
